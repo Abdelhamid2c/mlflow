@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/user/Desktop/mlflow/Creating%20experiments/mlruns/0/cad86c6471664f1494ed61923d82365e/artifacts
+end_time: 1719151648931
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cad86c6471664f1494ed61923d82365e
+run_name: intelligent-crab-311
+run_uuid: cad86c6471664f1494ed61923d82365e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719151648891
+status: 3
+tags: []
+user_id: user
