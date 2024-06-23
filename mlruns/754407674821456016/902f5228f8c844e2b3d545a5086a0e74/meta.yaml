@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/user/Desktop/mlflow/testing_mlflow1_artifacts/902f5228f8c844e2b3d545a5086a0e74/artifacts
+deleted_time: 1719171241385
 end_time: 1719152525342
 entry_point_name: ''
 experiment_id: '754407674821456016'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 902f5228f8c844e2b3d545a5086a0e74
 run_name: logging_params
 run_uuid: 902f5228f8c844e2b3d545a5086a0e74

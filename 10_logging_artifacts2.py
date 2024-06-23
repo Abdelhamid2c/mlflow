@@ -11,7 +11,7 @@ if __name__=="__main__":
 
         # your machine learning code goes here
 
-        mlflow.log_artifacts(local_dir="./run_artifacts",artifact_path="run_artifacts")
+        mlflow.log_artifacts(local_dir="./screens",artifact_path="run_artifacts")
 
         # print run info
         print("run_id: {}".format(run.info.run_id))

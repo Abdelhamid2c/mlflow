@@ -6,16 +6,16 @@ if __name__=="__main__":
     experiment = get_mlflow_experiment(experiment_name="testing_mlflow1")
     print("Name: {}".format(experiment.name))
 
-    with mlflow.start_run(run_name="logging_metrics", experiment_id = experiment.experiment_id) as run:
+    with mlflow.start_run(run_name="logging_metrics4", experiment_id = experiment.experiment_id) as run:
         # Your machine learning code goes here
 
-        mlflow.log_param("learning_rate", 0.01)
+        mlflow.log_param("learning_rate", 0.002)
 
         metrics = {
-            "mse": 0.01,
-            "mae": 0.01,
-            "rmse": 0.01,
-            "r2": 0.01
+            "mse": 0.02,
+            "mae": 0.07,
+            "rmse": 0.5,
+            "r2": 0.33
         }
 
         mlflow.log_metrics(metrics)
