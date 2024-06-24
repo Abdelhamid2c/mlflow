@@ -21,7 +21,7 @@ if __name__=="__main__":
     # client.create_registered_model(model_name)
 
     # # create model version 
-    # source = "file:///C:/Users/manue/Documents/projects/mlflow_for_ml_dev/model_registry_artifacts/da1d5bd925d94977af9247904b43cacd/artifacts/rft_model2"
+    # source = ""
     # run_id = "da1d5bd925d94977af9247904b43cacd"
     # client.create_model_version(name=model_name, source=source, run_id=run_id)
     
