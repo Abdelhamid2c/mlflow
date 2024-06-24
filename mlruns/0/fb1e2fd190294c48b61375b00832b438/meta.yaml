@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/user/Desktop/mlflow/Creating%20experiments/mlruns/0/fb1e2fd190294c48b61375b00832b438/artifacts
+deleted_time: 1719261906220
+end_time: 1719261554485
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: fb1e2fd190294c48b61375b00832b438
+run_name: child2
+run_uuid: fb1e2fd190294c48b61375b00832b438
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719261554436
+status: 3
+tags: []
+user_id: user

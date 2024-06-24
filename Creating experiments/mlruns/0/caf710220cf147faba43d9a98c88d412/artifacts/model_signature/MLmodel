@@ -1,0 +1,39 @@
+artifact_path: model_signature
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.3
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.4.2
+mlflow_version: 2.13.2
+model_size_bytes: 649
+model_uuid: fa596e31ea8c4f57a7ffbc5a11590416
+run_id: caf710220cf147faba43d9a98c88d412
+signature:
+  inputs: '[{"type": "double", "name": "feature_1", "required": true}, {"type": "double",
+    "name": "feature_2", "required": true}, {"type": "double", "name": "feature_3",
+    "required": true}, {"type": "double", "name": "feature_4", "required": true},
+    {"type": "double", "name": "feature_5", "required": true}, {"type": "double",
+    "name": "feature_6", "required": true}, {"type": "double", "name": "feature_7",
+    "required": true}, {"type": "double", "name": "feature_8", "required": true},
+    {"type": "double", "name": "feature_9", "required": true}, {"type": "double",
+    "name": "feature_10", "required": true}, {"type": "double", "name": "feature_11",
+    "required": true}, {"type": "double", "name": "feature_12", "required": true},
+    {"type": "double", "name": "feature_13", "required": true}, {"type": "double",
+    "name": "feature_14", "required": true}, {"type": "double", "name": "feature_15",
+    "required": true}, {"type": "double", "name": "feature_16", "required": true},
+    {"type": "double", "name": "feature_17", "required": true}, {"type": "double",
+    "name": "feature_18", "required": true}, {"type": "double", "name": "feature_19",
+    "required": true}, {"type": "double", "name": "feature_20", "required": true}]'
+  outputs: '[{"type": "integer", "name": "label", "required": true}]'
+  params: '[{"name": "model_name", "type": "string", "default": "model1", "shape":
+    null}]'
+utc_time_created: '2024-06-24 21:08:28.992713'

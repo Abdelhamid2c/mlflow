@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/user/Desktop/mlflow/Creating%20experiments/mlruns/0/cad86c6471664f1494ed61923d82365e/artifacts
+deleted_time: 1719261713051
 end_time: 1719151648931
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: cad86c6471664f1494ed61923d82365e
 run_name: intelligent-crab-311
 run_uuid: cad86c6471664f1494ed61923d82365e

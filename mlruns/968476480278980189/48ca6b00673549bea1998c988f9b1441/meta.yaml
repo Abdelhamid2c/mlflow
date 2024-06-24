@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/user/Desktop/mlflow/nested_run_artifacts/48ca6b00673549bea1998c988f9b1441/artifacts
+deleted_time: 1719261923872
+end_time: 1719261859029
+entry_point_name: ''
+experiment_id: '968476480278980189'
+lifecycle_stage: deleted
+run_id: 48ca6b00673549bea1998c988f9b1441
+run_name: parent
+run_uuid: 48ca6b00673549bea1998c988f9b1441
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719261858758
+status: 3
+tags: []
+user_id: user

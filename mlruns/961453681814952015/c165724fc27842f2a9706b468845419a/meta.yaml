@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/user/Desktop/mlflow/serving_multiple_models/c165724fc27842f2a9706b468845419a/artifacts
+end_time: 1719264671925
+entry_point_name: ''
+experiment_id: '961453681814952015'
+lifecycle_stage: active
+run_id: c165724fc27842f2a9706b468845419a
+run_name: multiple_models
+run_uuid: c165724fc27842f2a9706b468845419a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719264667570
+status: 3
+tags: []
+user_id: user

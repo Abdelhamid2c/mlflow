@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/user/Desktop/mlflow/testing_mlflow1_artifacts/32d7d90d72df438f90a159cd765bbc45/artifacts
+end_time: 1719260960932
+entry_point_name: ''
+experiment_id: '754407674821456016'
+lifecycle_stage: active
+run_id: 32d7d90d72df438f90a159cd765bbc45
+run_name: logging_models
+run_uuid: 32d7d90d72df438f90a159cd765bbc45
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719260951699
+status: 3
+tags: []
+user_id: user
